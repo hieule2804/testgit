@@ -1,0 +1,5 @@
+-Spring bean là những java object mà từ đó tạo lên khung sườn cho 1 ứng dụng Spring .chúng được quản lý bởi Spring ioC
+-ioC(inverse of control) : nó sẽ giúp mình khai báo những depenendency mà mình định nghĩa
+-@component : chú thích 1 class
+-@bean:chú thích 1 method
+- những class được đánh dấu @configuration nó đc xem là 1 trong những class cung cấp thông tin cấu hình trong ứng dụng
